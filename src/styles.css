@@ -7,9 +7,20 @@ body {
   font-family: sans-serif;
 }
 
+.container {
+  width: 500px;
+  margin: 50px auto;
+  background-color: aquamarine;
+  border: 1px solid blue;
+  padding: 5px;
+  max-width: 90%;
+  border-radius: 5px;
+}
+
 .box {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 7px;
   background-color: #f7f7f7;
 }
+

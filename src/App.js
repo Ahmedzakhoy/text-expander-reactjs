@@ -4,6 +4,13 @@ import { TextExpander } from "./TextExpander";
 export default function App() {
   return (
     <div>
+      <div className="container">
+        <h2>Text Expander</h2>
+        <p>
+          the following 3 elements are text expander components implemented
+          using react js
+        </p>
+      </div>
       <TextExpander>
         Space travel is the ultimate adventure! Imagine soaring past the stars
         and exploring new worlds. It's the stuff of dreams and science fiction,

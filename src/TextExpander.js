@@ -25,7 +25,7 @@ export function TextExpander({
   };
 
   return (
-    <div className={className}>
+    <div className={`container ${className}`}>
       <span>{displayText}</span>
       <button onClick={() => setIsExpanded((exp) => !exp)} style={buttonStyle}>
         {isExpanded ? collapseButtonText : expandButtonText}
