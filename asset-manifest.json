@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text-expander-reactjs/static/css/main.f160dd5f.css",
+    "main.js": "/text-expander-reactjs/static/js/main.e27bb5f7.js",
+    "index.html": "/text-expander-reactjs/index.html",
+    "main.f160dd5f.css.map": "/text-expander-reactjs/static/css/main.f160dd5f.css.map",
+    "main.e27bb5f7.js.map": "/text-expander-reactjs/static/js/main.e27bb5f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f160dd5f.css",
+    "static/js/main.e27bb5f7.js"
+  ]
+}
